@@ -1,7 +1,5 @@
 # 📚 Chatbot Acadêmico Baseado em PDFs
 
-![Chatbot Interface](screenshot.png) *Exemplo da interface do chatbot em funcionamento*
-
 ## 🎯 Objetivo
 
 Este projeto cria um chatbot inteligente capaz de responder perguntas com base no conteúdo de artigos científicos e documentos em PDF. Ideal para pesquisadores e estudantes que precisam extrair informações de múltiplos artigos acadêmicos.
